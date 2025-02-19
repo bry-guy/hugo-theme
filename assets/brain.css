@@ -64,10 +64,21 @@ a:hover {
 }
 
 img {
-  display: block;
-  max-width: 100%;
+  display: center;
+  max-width: 90%;
   height: auto;
 }
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 81.25%; /* 13px */
+    font-style: italic;
+    color: gray;
+}
+
 
 h1,
 h2,
